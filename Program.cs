@@ -11,7 +11,7 @@ namespace WebSocketControllerService
             var httpsv = new HttpServer(4649);
 #if DEBUG
             // To change the logging level.
-            httpsv.Log.Level = LogLevel.Trace;
+            httpsv.Log.Level = LogLevel.Trace; 
 
             // To change the wait time for the response to the WebSocket Ping or Close.
             //httpsv.WaitTime = TimeSpan.FromSeconds (2);
