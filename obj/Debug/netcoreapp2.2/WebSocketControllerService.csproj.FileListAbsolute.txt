@@ -1,0 +1,11 @@
+C:\Users\JoshuaJesperKrægpøth\source\repos\WebSocketControllerService\WebSocketControllerService\bin\Debug\netcoreapp2.2\WebSocketControllerService.deps.json
+C:\Users\JoshuaJesperKrægpøth\source\repos\WebSocketControllerService\WebSocketControllerService\bin\Debug\netcoreapp2.2\WebSocketControllerService.runtimeconfig.json
+C:\Users\JoshuaJesperKrægpøth\source\repos\WebSocketControllerService\WebSocketControllerService\bin\Debug\netcoreapp2.2\WebSocketControllerService.runtimeconfig.dev.json
+C:\Users\JoshuaJesperKrægpøth\source\repos\WebSocketControllerService\WebSocketControllerService\bin\Debug\netcoreapp2.2\WebSocketControllerService.dll
+C:\Users\JoshuaJesperKrægpøth\source\repos\WebSocketControllerService\WebSocketControllerService\obj\Debug\netcoreapp2.2\WebSocketControllerService.csprojAssemblyReference.cache
+C:\Users\JoshuaJesperKrægpøth\source\repos\WebSocketControllerService\WebSocketControllerService\obj\Debug\netcoreapp2.2\WebSocketControllerService.csproj.CoreCompileInputs.cache
+C:\Users\JoshuaJesperKrægpøth\source\repos\WebSocketControllerService\WebSocketControllerService\obj\Debug\netcoreapp2.2\WebSocketControllerService.AssemblyInfoInputs.cache
+C:\Users\JoshuaJesperKrægpøth\source\repos\WebSocketControllerService\WebSocketControllerService\obj\Debug\netcoreapp2.2\WebSocketControllerService.AssemblyInfo.cs
+C:\Users\JoshuaJesperKrægpøth\source\repos\WebSocketControllerService\WebSocketControllerService\bin\Debug\netcoreapp2.2\WebSocketControllerService.pdb
+C:\Users\JoshuaJesperKrægpøth\source\repos\WebSocketControllerService\WebSocketControllerService\obj\Debug\netcoreapp2.2\WebSocketControllerService.dll
+C:\Users\JoshuaJesperKrægpøth\source\repos\WebSocketControllerService\WebSocketControllerService\obj\Debug\netcoreapp2.2\WebSocketControllerService.pdb
